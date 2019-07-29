@@ -8,6 +8,7 @@ For this Datathon the goal was to identify the neighbourhood profiles around the
 
 ### Data Source
 Data was provided by [Data for Good organization](https://dataforgood.ca/):
+
 **Events Data**
 -  Meetup_Data.csv                            : contains information about events organize using the Meetup app 
 -  Eventful_Data.csv                          : contains information about events organize using the Eventful app
