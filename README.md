@@ -27,3 +27,6 @@ Data was provided by [Data for Good organization](https://dataforgood.ca/):
 -  CensusDataFSA_MaritalStatus_EEU.csv        : contains census data information
 -  CensusDataFSA_Population_EEU.csv           : contains census data information
 -  CensusDataFSA_Visible_Minority_EEU.csv     : contains census data information
+
+## Jupyter notebook 
+[Exploratory analysis](https://nbviewer.jupyter.org/github/brunildacity01/Exploratory-analysis-East-End-United-EEU-/blob/master/DataThon.ipynb)
